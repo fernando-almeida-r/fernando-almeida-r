@@ -2,7 +2,7 @@
 
 ### A mechanical engineer passionate about data analysis.
 
-- 🌱 I’m currently learning **[Python](https://www.alura.com.br/formacao-data-science?srsltid=AfmBOoqF0W4c5SOhEIwoDhacIfBJ0zdQkjXLMi9kF7w6lQO782E8izzI)**
+- 🌱 Bachelor in Mechanical Engineering and Master in Aeronautical Engineering
 - 💬 Ask me about **R, PowerQuery, Excel...or anything [here](https://github.com/fernando-almeida-r/fernando-almeida-r/issues)**
 
 ## 🌐 Contact me
